@@ -1,22 +1,30 @@
-# Bos_Indicus_GO_db
-### _Bos indicus_ db for GO annotation using clusterProfiler,enrichGO
+
+## _Bos indicus_ db for GO annotation using clusterProfiler,enrichGO
 
 ### _Bos indicus_ assembly used UOA_Brahman_1 (GCF_003369695.1)
+<br/>
+* Download zip file & unzip the folder 
 
-Download using git clone
+> cd Bos_Indicus_GO_database-main
+
+**or**
+
+* Download using git clone
 
 > git clone --recursive https://github.com/AS11-git/Bos_Indicus_GO_database.git
 >
 > cd Bos_Indicus_GO_database
+>
+<br/><br/>
 
-Installing the package in R:
+### Installing the package in R:
 
-open R terminal and install the package
+* open R terminal and install the package
 
  > install.packages("./org.Bindicus.eg.db", repos=NULL)
 
- Import the package to R :
+* Import the package to R :
 
  > library(org.Bindicus.eg.db)
 
-For gene enrichment analysis please follow the clusterProfiler,enrichGO tutorial
+* For gene enrichment analysis please follow the clusterProfiler,enrichGO tutorial
