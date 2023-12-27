@@ -5,7 +5,7 @@
 
 Installing the package in R:
 
- >install.packages("org.Bindicus.eg.db", repos=NULL)
+ >install.packages("./org.Bindicus.eg.db", repos=NULL)
 
  Import the package to R :
 
