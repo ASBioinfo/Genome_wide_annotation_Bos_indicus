@@ -12,7 +12,7 @@
 
 * Download using git clone
 
-> https://github.com/AS11-git/org.Bindicus.eg.db.git
+> git clone --recursive https://github.com/AS11-git/org.Bindicus.eg.db.git
 >
 > cd org.Bindicus.eg.db
 >
@@ -20,7 +20,7 @@
 
 ### Installing the package in R:
 
-* open R terminal and install the package
+* open the R terminal and install the package
 
  > install.packages("./org.Bindicus.eg.db", repos=NULL)
 
