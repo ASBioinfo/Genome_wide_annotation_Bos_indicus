@@ -5,7 +5,7 @@
 <br/>
 * Download zip file & unzip the folder 
 
-> cd Bos_Indicus_GO_database-main
+> cd org.Bindicus.eg.db-main
 
 **or**
 
