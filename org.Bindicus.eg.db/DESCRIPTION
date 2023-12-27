@@ -1,0 +1,13 @@
+Package: org.Bindicus.eg.db
+Title: Genome wide annotation for Bos indicus
+Description: Genome wide annotation for Bos indicus, primarily based on mapping using Entrez Gene identifiers.
+Version: 0.1
+Author: As <so@someplace.org>
+Maintainer: As <so@someplace.org>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.62.2)
+Suggests: DBI, annotate, RUnit
+License: Artistic-2.0
+organism: Bos indicus
+species: Bos indicus
+biocViews: OrgDb, annotation
+
