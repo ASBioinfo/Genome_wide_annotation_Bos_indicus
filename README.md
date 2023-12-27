@@ -11,9 +11,9 @@
 
 * Download using git clone
 
-> git clone --recursive https://github.com/AS11-git/Bos_Indicus_GO_database.git
+> https://github.com/AS11-git/org.Bindicus.eg.db.git
 >
-> cd Bos_Indicus_GO_database
+> cd org.Bindicus.eg.db
 >
 <br/><br/>
 
