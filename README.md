@@ -6,21 +6,21 @@
 
 * Download zip file & unzip the folder 
 
-> cd org.Bindicus.eg.db-main
+> cd Genome_wide_annotation_Bos_indicus
 
 **or**
 
 * Download using git clone
 
-> git clone --recursive https://github.com/AS11-git/org.Bindicus.eg.db.git
+> git clone --recursive https://github.com/AS11-git/Genome_wide_annotation_Bos_indicus.git
 >
-> cd org.Bindicus.eg.db
+> cd Genome_wide_annotation_Bos_indicus
 >
 <br/><br/>
 
 ### Installing the package in R:
 
-* open the R terminal and install the package
+* Open the R terminal and install the package
 
  > install.packages("./org.Bindicus.eg.db", repos=NULL)
 
