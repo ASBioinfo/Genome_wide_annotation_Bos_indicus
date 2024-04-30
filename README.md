@@ -12,7 +12,7 @@
 
 * Download using git clone
 
-> git clone --recursive https://github.com/AS11-git/Genome_wide_annotation_Bos_indicus.git
+> git clone --recursive https://github.com/ASBioinfo/Genome_wide_annotation_Bos_indicus.git
 >
 > cd Genome_wide_annotation_Bos_indicus
 >
